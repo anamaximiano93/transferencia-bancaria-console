@@ -16,7 +16,7 @@
 </p>
 </h1>
 
-### Esse projeto proposto no Bootcamp **MRV .NET DEVELOPER** da [DIO](https://digitalinnovation.one/sign-in?redirect=%2Fhome), consiste no desenvolvimento de um exemplo de transferências bancarias entre agências e tambêm com chave PIX em memória com CSharp.
+### Esse projeto proposto no Bootcamp **MRV .NET DEVELOPER** da [DIO](https://digitalinnovation.one/sign-in?redirect=%2Fhome), consiste no desenvolvimento de um exemplo de transferências bancarias entre agências e também com chave PIX em memória com CSharp.
 
 <br>
 
